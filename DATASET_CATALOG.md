@@ -9,14 +9,14 @@ This catalog is based on:
 - local companion docs/codebooks
 - targeted web searches for likely upstream dataset pages
 
-Cleaning status is intentionally conservative:
+Cleaning status is:
 
 - `no`: looks like a raw or near-raw download/export
 - `mixed`: mostly upstream data, but converted, lightly renamed, trimmed, or reformatted
 - `yes`: clearly classroom-prepped, subsetted, aggregated, or feature-engineered
 - `unclear`: provenance/source is not pinned down confidently enough to say more
 
-Confidence is about provenance, not data quality.
+
 
 ## Main Catalog
 
